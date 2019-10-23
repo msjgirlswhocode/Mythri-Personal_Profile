@@ -1,0 +1,28 @@
+h1 {
+  color: Navy;
+}
+
+#para1 {
+  color: Navy;
+}
+
+#para2 {
+  color: Navy;
+}
+
+.textcont {
+  background-color: white;
+}
+
+.maincontainer {
+  display: flex;
+  background-color: BlanchedAlmond;
+  padding: 10px;
+  justify-content: center;
+}
+
+body {
+  font-family: courier;
+  background-image: url("Fall.jpg");
+  background-size: cover;
+}
