@@ -16,13 +16,16 @@ h1 {
 
 .topnav ul li{
   display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  justify-content: space-between;
+  align-items: flex-start;
   height: 120px;
   width: 120px;
   background: white;
   color: blue;
   float: center;
   opacity: .8;
-  border-radius: 50px;
   color: DarkOliveGreen;
   font-size: 20px;
 }
