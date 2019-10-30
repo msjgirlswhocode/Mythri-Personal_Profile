@@ -10,6 +10,24 @@ h1 {
   color: red;
 }
 
+#paracats1 {
+  color: Aquamarine;
+}
+
+.nav ul li{
+  display: inline-block;
+  height: 120px;
+  width: 120px;
+  background: white;
+  color: blue;
+  float: center;
+  opacity: .8;
+  border-radius: 50%;
+  color: Dark0LiveGreen;
+  font-size: 20px;
+}
+
+
 .textcont {
   background-color: white;
 }
