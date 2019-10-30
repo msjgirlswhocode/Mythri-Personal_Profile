@@ -15,7 +15,7 @@ h1 {
 }
 
 .topnav ul li{
-  display: inline-block;
+  display: flex;
   height: 120px;
   width: 120px;
   background: white;
@@ -23,7 +23,7 @@ h1 {
   float: center;
   opacity: .8;
   border-radius: 50px;
-  color: Dark0LiveGreen;
+  color: DarkOliveGreen;
   font-size: 20px;
 }
 
