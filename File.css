@@ -35,7 +35,7 @@ h1 {
 .maincontainer {
   display: flex;
   background-color: BlanchedAlmond;
-  padding: 10px;
+  padding: 2px;
   justify-content: center;
 }
 
