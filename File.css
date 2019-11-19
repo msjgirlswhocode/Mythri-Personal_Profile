@@ -9,6 +9,7 @@ h1 {
 
 #para2 {
   color: red;
+  font-weight: 500;
 }
 
 #paracats1 {
@@ -36,7 +37,7 @@ h1 {
 .maincontainer {
   display: flex;
   background-color: Aquamarine;
-  padding: 20px;
+  padding: 10px;
   justify-content: center;
 }
 
