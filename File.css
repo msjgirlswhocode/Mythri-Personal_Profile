@@ -17,9 +17,9 @@ h1 {
 .topnav ul li{
   display: flex;
   justify-content: center;
-  align-items: flex-start;
-  height: 12px;
-  width: 12px;
+  justify-content: space-between;
+  height: 20px;
+  width: 20px;
   background: purple;
   color: blue;
   float: center;
