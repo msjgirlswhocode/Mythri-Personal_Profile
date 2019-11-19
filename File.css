@@ -3,7 +3,7 @@ h1 {
 }
 
 #para1 {
-  color: Aquamarine;
+  color: DarkTurquoise;
 }
 
 #para2 {
@@ -18,8 +18,8 @@ h1 {
   display: flex;
   justify-content: center;
   justify-content: space-between;
-  height: 30px;
-  width: 30px;
+  height: 25px;
+  width: 25px;
   background: white;
   color: green;
   float: center;
@@ -34,8 +34,8 @@ h1 {
 
 .maincontainer {
   display: flex;
-  background-color: BlanchedAlmond;
-  padding: 2px;
+  background-color: Aquamarine;
+  padding: 20px;
   justify-content: center;
 }
 
