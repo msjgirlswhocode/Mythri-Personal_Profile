@@ -18,13 +18,12 @@ h1 {
   display: flex;
   justify-content: center;
   justify-content: space-between;
-  height: 20px;
-  width: 20px;
-  background: purple;
-  color: blue;
+  height: 30px;
+  width: 30px;
+  background: white;
+  color: green;
   float: center;
   opacity: .8;
-  color: DarkOliveGreen;
   font-size: 20px;
 }
 
